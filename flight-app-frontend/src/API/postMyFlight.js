@@ -4,7 +4,7 @@ import { toastSuccessNotify } from "../helper/ToastNotify";
 export const postMyFlight = async (flightData) => {
   try {
     const response = await axios.post(
-      "http://localhost:8000/myFlight",
+      "https://flight-app-vert.vercel.app/myFlight",
       flightData
     );
     toastSuccessNotify("Your reservation has been created successfully..");
