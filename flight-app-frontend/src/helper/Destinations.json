@@ -1,0 +1,147 @@
+[
+    {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "iata": "AMS",
+        "publicName": {
+          "dutch": "Amsterdam",
+          "english": "Amsterdam"
+        }
+    },
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "iata": "LHR",
+      "publicName": {
+        "dutch": "Londen Heathrow",
+        "english": "London Heathrow"
+      }
+    },
+    {
+      "city": "Paris",
+      "country": "France",
+      "iata": "CDG",
+      "publicName": {
+        "dutch": "Parijs Charles de Gaulle",
+        "english": "Paris Charles de Gaulle"
+      }
+    },
+    {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "iata": "FRA",
+      "publicName": {
+        "dutch": "Frankfurt",
+        "english": "Frankfurt"
+      }
+    },
+    {
+      "city": "New York",
+      "country": "United States",
+      "iata": "JFK",
+      "publicName": {
+        "dutch": "New York JFK",
+        "english": "New York JFK"
+      }
+    },
+    {
+      "city": "Barcelona",
+      "country": "Spain",
+      "iata": "BCN",
+      "publicName": {
+        "dutch": "Barcelona",
+        "english": "Barcelona"
+      }
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "iata": "IST",
+      "publicName": {
+        "dutch": "Istanbul",
+        "english": "Istanbul"
+      }
+    },
+    {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "iata": "DXB",
+      "publicName": {
+        "dutch": "Dubai",
+        "english": "Dubai"
+      }
+    },
+    {
+      "city": "Madrid",
+      "country": "Spain",
+      "iata": "MAD",
+      "publicName": {
+        "dutch": "Madrid",
+        "english": "Madrid"
+      }
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "iata": "FCO",
+      "publicName": {
+        "dutch": "Rome Fiumicino",
+        "english": "Rome Fiumicino"
+      }
+    },
+    {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "iata": "CPH",
+      "publicName": {
+        "dutch": "Kopenhagen",
+        "english": "Copenhagen"
+      }
+    },
+    {
+      "city": "Munich",
+      "country": "Germany",
+      "iata": "MUC",
+      "publicName": {
+        "dutch": "München",
+        "english": "Munich"
+      }
+    },
+    {
+      "city": "Zurich",
+      "country": "Switzerland",
+      "iata": "ZRH",
+      "publicName": {
+        "dutch": "Zürich",
+        "english": "Zurich"
+      }
+    },
+    {
+      "city": "Vienna",
+      "country": "Austria",
+      "iata": "VIE",
+      "publicName": {
+        "dutch": "Wenen",
+        "english": "Vienna"
+      }
+    },
+    {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "iata": "LIS",
+      "publicName": {
+        "dutch": "Lissabon",
+        "english": "Lisbon"
+      }
+    },
+    {
+      "city": "Oslo",
+      "country": "Norway",
+      "iata": "OSL",
+      "publicName": {
+        "dutch": "Oslo",
+        "english": "Oslo"
+      }
+    }
+  ]
+  

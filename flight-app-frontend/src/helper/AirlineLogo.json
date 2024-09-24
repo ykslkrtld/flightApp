@@ -1,0 +1,67 @@
+[
+    {
+        "name": "KLM",
+        "logo": "https://logos-world.net/wp-content/uploads/2023/01/KLM-Logo.jpg"
+    },
+    {
+        "name": "Delta Air Lines",
+        "logo": "https://download.logo.wine/logo/Delta_Air_Lines/Delta_Air_Lines-Logo.wine.png"
+    },
+    {
+        "name": "Transavia",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFOBqD9v4KMmH03dErO89x62xO5HbS0_7mw&s"
+    },
+    {
+        "name": "EasyJet",
+        "logo": "https://cdn.dribbble.com/users/16537/screenshots/822567/easyjet_logo.jpg"
+    },
+    {
+        "name": "Ryanair",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Ryanair_logo.svg/1200px-Ryanair_logo.svg.png"
+    },
+    {
+        "name": "British Airways",
+        "logo": "https://globalgoodawards.co.uk/wp-content/uploads/2020/01/british-airways-logo.png"
+    },
+    {
+        "name": "Lufthansa",
+        "logo": "https://www.wermac.org/dewebsite/logo/lufthansa/lufthansa_bot.jpg"
+    },
+    {
+        "name": "Air France",
+        "logo": "https://logos-world.net/wp-content/uploads/2020/03/Air-France-Logo-1976-1990.jpg"
+    },
+    {
+        "name": "Turkish Airlines",
+        "logo": "https://e7.pngegg.com/pngimages/465/149/png-clipart-turkish-airlines-boeing-777-logo-antalya-turk-cargo-sphere-thumbnail.png"
+    },
+    
+    {
+        "name": "Brussels Airlines",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEevBOkmnzI1tzwAACYfyxeTmGz_Kk2yJFtw&s"
+    },
+    {
+        "name": "Alitalia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alitalia.svg/1200px-Alitalia.svg.png"
+    },
+    {
+        "name": "China Southern Airlines",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVWedyu74yZoxOinjMRX-CnYeqbxmwChpHA&s"
+    },
+    {
+        "name": "Emirates",
+        "logo": "https://i.pinimg.com/736x/64/9e/1c/649e1c738c189557e58cf78e1ec21cfe.jpg"
+    },
+    {
+        "name": "Qatar Airways",
+        "logo": "https://seeklogo.com/images/Q/qatar-airways-logo-E096F45AE3-seeklogo.com.png"
+    },
+    {
+        "name": "Etihad Airways",
+        "logo": "https://1000logos.net/wp-content/uploads/2020/04/Etihad-Airways-Logo-2003.jpg"
+    },
+    {
+        "name": "TUI fly",
+        "logo": "https://play-lh.googleusercontent.com/Q4nTMMT4vrzxmPyFc4R_gBSZUD8kVI1LZLeI_8QLjObUO3_W_qgq6Z1MbRTvJuaBB1-C"
+    }
+]
