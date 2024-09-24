@@ -110,7 +110,7 @@ module.exports = {
                     arrivalAirport: arrivalAirport,
                     departureDateTime: flight.scheduleDateTime,
                     scheduleDate: flight.scheduleDate,
-                    arrivalDateTime: flight.estimatedLandingTime || flight.actualLandingTime,
+                    arrivalDateTime: flight.estimatedLandingTime || flight.actualLandingTime || "2024-09-23T23:55:00.000+02:00", // bazı verilerde estimatedLandingTime ve actualLandingTime ikisi birden olmadığı için görsellik katması amacıyla statik bir değer oluşturulmuştur
                     airline: airline,
                     tripType: flight.route.eu === 'S' ? 'One Way' : 'Round Trip', // Tek yön veya gidiş-dönüş
                 };
