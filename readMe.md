@@ -48,7 +48,7 @@ Projenin çalışması için aşağıdaki adımları izleyin:
 
 
 ## Ekran Görüntüleri
-https://ibb.co/nsGX9d2
+https://ibb.co/R2WqxdS
 https://ibb.co/bW0H6hT
 https://ibb.co/K5Dg7BR
 https://ibb.co/qkm7vM4

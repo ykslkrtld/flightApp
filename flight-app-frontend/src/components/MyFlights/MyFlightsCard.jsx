@@ -45,7 +45,7 @@ const MyFlightsCard = ({ myFlights }) => {
                     { hour: "2-digit", minute: "2-digit", hour12: true }
                   )}
                 </div>
-                <div className="flex flex-wrap mt-2 space-x-20 sm:space-x-4 sm:justify-center">
+                <div className="flex flex-wrap mt-2 sm:space-x-4 md:space-x-20 sm:justify-center">
                   <div>
                     <div className="font-semibold">{myFlight.airline}</div>
                     <select className="text-blue-400 rounded mt-1 text-sm">
