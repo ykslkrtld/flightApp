@@ -46,7 +46,6 @@ Projenin çalışması için aşağıdaki adımları izleyin:
 - **Rezervasyon:** Uçuşu seçtikten sonra rezervasyon yapabilir ve uçuş detaylarınızı MongoDB veritabanında saklayabilirsiniz. Geçmiş tarihli uçuşlar için rezervasyon yapamazsınız.
 - **Uçuşlarım:** Kaydedilen uçuşlarınızı görüntüleyebilirsiniz. Havayolu şirketleri logoları için API'de veri bulunmadığından JSON oluşturularak oradan çekildi. Uçuşlarım sayfasına rezervasyon oluştur butonuna tıklayarak veya header kısmındaki profil bilgilerine tıklayarak ulaşabilirsiniz.
 
-
 ## Ekran Görüntüleri
 https://ibb.co/PMdHDNK
 https://ibb.co/bW0H6hT
@@ -55,4 +54,7 @@ https://ibb.co/qkm7vM4
 https://ibb.co/vcKDtvP
 https://ibb.co/Z210DVP
 https://ibb.co/Ykwybcq
+
+## Proje Linki
+https://flight-app-ykslkrtld.vercel.app/
 
